@@ -1,3 +1,6 @@
+![FinSight](https://github.com/user-attachments/assets/720153a0-1f07-413b-9f77-fa58e869bc8c)
+
+
 # 📊 FinSight - Personal Finance Platform
 
 **FinSight** is a cross-platform personal finance and budgeting application. It helps users track income and expenses, set budgets and savings goals, receive smart insights, and manage finances easily across web and mobile.
