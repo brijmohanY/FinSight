@@ -1,0 +1,2 @@
+# FinSight
+Personal Finance Platform
